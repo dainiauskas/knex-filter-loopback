@@ -1,7 +1,7 @@
 {
-  "name": "knex-filter-loopback",
+  "name": "knex-filter-loopback2",
   "version": "0.1.0",
-  "description": "Declarative filtering for knex.js based on the Loopback Where Filter.",
+  "description": "Declarative filtering for knex.js based on the Loopback Where Filter. With added custom table selectors",
   "main": "index.js",
   "directories": {
     "test": "tests"
@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/joostvunderink/knex-filter-loopback.git"
+    "url": "git+https://github.com/endrikend/knex-filter-loopback.git"
   },
   "keywords": [
     "knex",
@@ -29,10 +29,10 @@
     "declarative",
     "query"
   ],
-  "author": "Joost Vunderink",
+  "author": "Endrik End",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/joostvunderink/knex-filter-loopback/issues"
+    "url": "https://github.com/endrikend/knex-filter-loopback/issues"
   },
-  "homepage": "https://github.com/joostvunderink/knex-filter-loopback#readme"
+  "homepage": "https://github.com/endrikend/knex-filter-loopback#readme"
 }
